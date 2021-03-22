@@ -18,7 +18,8 @@ The repo consists of 5 notebooks corresponding to the following 5 sections in th
 - [Moral-based Framing in US-based Tweets](3_moral_based_framing_in_us_based_tweets.ipynb)
 - [Moral-based Framing in Austrian-based Tweets](4_moral_based_framing_in_austrian_based_tweets.ipynb)
 
-Plots of the five moral axis are provided in [plots](plots/).
+Plots of the five moral axis are provided in [plots](plots/).  
+Additonally, some example are outlined in [examples.ipynb](examples.ipynb).
 
 ## Cite
 
