@@ -25,6 +25,7 @@ Additonally, some example are outlined in [examples.ipynb](examples.ipynb).
 
 Bibtex for Preprint, please use the published version once available (will be updated here):
 
+```
 @misc{reiterhaas2021studying,
       title={Studying Moral-based Differences in the Framing of Political Tweets}, 
       author={Markus Reiter-Haas and Simone Kopeinik and Elisabeth Lex},
@@ -33,3 +34,4 @@ Bibtex for Preprint, please use the published version once available (will be up
       archivePrefix={arXiv},
       primaryClass={cs.SI}
 }
+```
