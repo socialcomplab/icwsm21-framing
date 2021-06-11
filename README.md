@@ -23,15 +23,15 @@ Additonally, some example are outlined in [examples.ipynb](examples.ipynb).
 
 ## Cite
 
-Bibtex for Preprint, please use the published version once available (will be updated here):
+Bibtex for [Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18135):
 
 ```
-@misc{reiterhaas2021studying,
-      title={Studying Moral-based Differences in the Framing of Political Tweets}, 
-      author={Markus Reiter-Haas and Simone Kopeinik and Elisabeth Lex},
-      year={2021},
-      eprint={2103.11853},
-      archivePrefix={arXiv},
-      primaryClass={cs.SI}
+@inproceedings{reiter2021studying,
+  title={Studying Moral-based Differences in the Framing of Political Tweets},
+  author={Reiter-Haas, Markus and Kopeinik, Simone and Lex, Elisabeth},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={15},
+  pages={1085--1089},
+  year={2021}
 }
 ```
