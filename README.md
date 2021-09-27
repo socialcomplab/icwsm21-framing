@@ -1,6 +1,6 @@
 # Studying Moral-based Differences in the Framing of Political Tweets
 
-This repository contains the code for the paper `Studying Moral-based Differences in the Framing of Political Tweets`. ([Preprint is available here](https://arxiv.org/abs/2103.11853))
+This repository contains the code for the paper `Studying Moral-based Differences in the Framing of Political Tweets`. ([Link to paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18135) or [Link to preprint](https://arxiv.org/abs/2103.11853))
 
 The paper deals with moral framing using five moral foundations: (a) care, (b) fairness, (c) loyalty, (d) authority, and (e) sanctity.  
 The experiments are conducted in Austrian and US based Twitter data.  
