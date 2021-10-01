@@ -5,6 +5,8 @@ This repository contains the code for the paper `Studying Moral-based Difference
 The paper deals with moral framing using five moral foundations: (a) care, (b) fairness, (c) loyalty, (d) authority, and (e) sanctity.  
 The experiments are conducted in Austrian and US based Twitter data.  
 
+Method: We capture the moral frames using the FrameAxis approach, which defines semantic axes in the latent space formed by word vectors. As resources, we use moral foundation dictionary version 2 to define moral words (consisting of positive virtue associated and negative vice-associated words) and use GloVe for their representation. Then, for each of the five moral axes, we assign one end to the centroid of virtues and vices to the other one. These axes are used to extract the moral bias (defined by the mean) and the moral intensity (defined by the variance in relation to its baseline bias) by aggregating contributions of words in a document, i.e., their cosine similarity with the axes. Finally, we apply a logistic regression classifier to investigate the learned coefficient for the different groups present in the datasets. 
+
 TLDR: we find that different moral values are associated with different political messages spread by US & Austrian politicians via Twitter.
 
 ![Preview](preview.png)
